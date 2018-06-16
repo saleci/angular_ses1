@@ -1,5 +1,6 @@
 import { Component, Input, OnInit, OnChanges } from '@angular/core';
 import { GalleryModel } from '../models/gallery.model';
+import { GalleryService } from '../Services/gallery.service';
 
 @Component({
   selector: 'app-ui',
@@ -11,10 +12,13 @@ export class UiComponent implements OnInit, OnChanges {
   public gallerylist: GalleryModel[];
   public styleuse: any;
   @Input() accesslvl: string;
-  constructor() { }
+  public getgallery: GalleryModel[] = [];
+  constructor(private galleryservice: GalleryService) { }
 
 
   ngOnInit() {
+
+     this.getgallery=this.galleryservice.getGallery();
     this.styleuse = {
       'backgroundColor': 'lightgray'
     };

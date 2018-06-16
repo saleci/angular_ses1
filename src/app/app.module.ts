@@ -6,6 +6,7 @@ import { LoginComponent } from './admin/login/login.component';
 import { UiComponent } from './ui/ui.component';
 import { HovertableDirective } from './directive/hovertable.directive';
 import { TorialPipe } from './Pipe/toRial.pipe';
+import { GalleryService } from './Services/gallery.service';
 
 
 @NgModule({
@@ -20,7 +21,7 @@ import { TorialPipe } from './Pipe/toRial.pipe';
     BrowserModule,
     FormsModule
   ],
-  providers: [],
+  providers: [GalleryService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
