@@ -18,7 +18,7 @@ export class UiComponent implements OnInit, OnChanges {
 
   ngOnInit() {
 
-     this.getgallery=this.galleryservice.getGallery();
+    this.getgallery = this.galleryservice.getGallery();
     this.styleuse = {
       'backgroundColor': 'lightgray'
     };
