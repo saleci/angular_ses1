@@ -1,0 +1,15 @@
+<h4 >
+  you can see your Images in your cloud !
+</h4>
+<table>
+  <tr>
+    <th><span>Title</span></th>
+    <th><span>Descript</span></th>
+  </tr>
+  <tr appHovertable  *ngFor="let pic of gallerylist"  >
+     
+      <td  *ngIf="pic.isactive">{{pic.title}}</td>
+      <td  *ngIf="pic.isactive">{{pic.explain}}</td>
+    
+  </tr>
+</table>

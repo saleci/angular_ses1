@@ -1,0 +1,393 @@
+2018-06-15T17:09:02.158Z - info:   [15476] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:09:02.158Z - info:   [15476] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:09:02.174Z - debug:  [15476] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:09:02.174Z - debug:  [15476] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:09:02.174Z - debug:  [15476] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:09:02.174Z - debug:  [15476] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:09:02.187Z - debug:  [15476] Using TFS proxy: 
+2018-06-15T17:09:02.188Z - debug:  [15476] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:09:02.189Z - debug:  [15476] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:09:02.192Z - debug:  [15476] TFVC Repository.CheckVersion
+2018-06-15T17:09:02.195Z - debug:  [15476] TFVC: tf add -noprompt -?
+2018-06-15T17:09:02.207Z - debug:  [15476] TFVC: spawned new process (duration: 8ms)
+2018-06-15T17:09:02.296Z - debug:  [15476] TFVC: add exit code: 0 (duration: 100ms)
+2018-06-15T17:09:02.296Z - debug:  [15476] TFVC Minimum required version: 14.102.0
+2018-06-15T17:09:02.296Z - debug:  [15476] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:09:02.296Z - debug:  [15476] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:09:02.296Z - debug:  [15476] TFVC: tf workfold -noprompt ********
+2018-06-15T17:09:02.296Z - debug:  [15476] TFVC: spawned new process (duration: 0ms)
+2018-06-15T17:09:02.612Z - debug:  [15476] TFVC: workfold exit code: 100 (duration: 316ms)
+2018-06-15T17:09:02.612Z - debug:  [15476] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:09:02.612Z - error:  [15476] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:10:01.704Z - debug:  [15476] Reinitializing due to onDidChangeConfiguration
+2018-06-15T17:10:01.705Z - debug:  [15476] Polling interval value (minutes): 5
+2018-06-15T17:10:01.706Z - info:   [15476] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:10:01.706Z - info:   [15476] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:10:01.706Z - debug:  [15476] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:10:01.706Z - debug:  [15476] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:10:01.707Z - debug:  [15476] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:10:01.708Z - debug:  [15476] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:10:01.709Z - debug:  [15476] Using TFS proxy: 
+2018-06-15T17:10:01.709Z - debug:  [15476] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:10:01.710Z - debug:  [15476] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:10:01.711Z - debug:  [15476] TFVC Repository.CheckVersion
+2018-06-15T17:10:01.712Z - debug:  [15476] TFVC: tf add -noprompt -?
+2018-06-15T17:10:01.715Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:10:01.916Z - debug:  [15476] TFVC: add exit code: 0 (duration: 204ms)
+2018-06-15T17:10:01.916Z - debug:  [15476] TFVC Minimum required version: 14.102.0
+2018-06-15T17:10:01.916Z - debug:  [15476] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:10:01.916Z - debug:  [15476] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:10:01.917Z - debug:  [15476] TFVC: tf workfold -noprompt ********
+2018-06-15T17:10:01.920Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:10:02.157Z - debug:  [15476] TFVC: workfold exit code: 100 (duration: 240ms)
+2018-06-15T17:10:02.157Z - debug:  [15476] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:10:02.157Z - error:  [15476] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:10:40.446Z - debug:  [15476] Reinitializing due to onDidChangeConfiguration
+2018-06-15T17:10:40.446Z - debug:  [15476] Polling interval value (minutes): 5
+2018-06-15T17:10:40.448Z - info:   [15476] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:10:40.448Z - info:   [15476] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:10:40.448Z - debug:  [15476] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:10:40.448Z - debug:  [15476] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:10:40.449Z - debug:  [15476] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:10:40.449Z - debug:  [15476] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:10:40.450Z - debug:  [15476] Using TFS proxy: 
+2018-06-15T17:10:40.450Z - debug:  [15476] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:10:40.450Z - debug:  [15476] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:10:40.452Z - debug:  [15476] TFVC Repository.CheckVersion
+2018-06-15T17:10:40.452Z - debug:  [15476] TFVC: tf add -noprompt -?
+2018-06-15T17:10:40.455Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:10:40.526Z - debug:  [15476] TFVC: add exit code: 0 (duration: 74ms)
+2018-06-15T17:10:40.526Z - debug:  [15476] TFVC Minimum required version: 14.102.0
+2018-06-15T17:10:40.526Z - debug:  [15476] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:10:40.526Z - debug:  [15476] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:10:40.526Z - debug:  [15476] TFVC: tf workfold -noprompt ********
+2018-06-15T17:10:40.526Z - debug:  [15476] TFVC: spawned new process (duration: 0ms)
+2018-06-15T17:10:40.979Z - debug:  [15476] TFVC: workfold exit code: 100 (duration: 453ms)
+2018-06-15T17:10:40.979Z - debug:  [15476] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:10:40.979Z - error:  [15476] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:11:52.797Z - debug:  [15476] Reinitializing due to onDidChangeConfiguration
+2018-06-15T17:11:52.798Z - debug:  [15476] Polling interval value (minutes): 5
+2018-06-15T17:11:52.800Z - info:   [15476] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:11:52.800Z - info:   [15476] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:11:52.801Z - debug:  [15476] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:11:52.801Z - debug:  [15476] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:11:52.802Z - debug:  [15476] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:11:52.802Z - debug:  [15476] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:11:52.804Z - debug:  [15476] Using TFS proxy: 
+2018-06-15T17:11:52.804Z - debug:  [15476] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:11:52.804Z - debug:  [15476] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:11:52.805Z - debug:  [15476] TFVC Repository.CheckVersion
+2018-06-15T17:11:52.806Z - debug:  [15476] TFVC: tf add -noprompt -?
+2018-06-15T17:11:52.806Z - debug:  [15476] TFVC: spawned new process (duration: 0ms)
+2018-06-15T17:11:52.895Z - debug:  [15476] TFVC: add exit code: 0 (duration: 89ms)
+2018-06-15T17:11:52.895Z - debug:  [15476] TFVC Minimum required version: 14.102.0
+2018-06-15T17:11:52.895Z - debug:  [15476] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:11:52.895Z - debug:  [15476] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:11:52.896Z - debug:  [15476] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:11:52.899Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:11:53.440Z - debug:  [15476] TFVC: workfold exit code: 100 (duration: 544ms)
+2018-06-15T17:11:53.440Z - debug:  [15476] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:11:53.440Z - error:  [15476] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:20:04.352Z - debug:  [15476] Reinitializing due to onDidChangeConfiguration
+2018-06-15T17:20:04.353Z - debug:  [15476] Polling interval value (minutes): 5
+2018-06-15T17:20:04.357Z - info:   [15476] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:20:04.357Z - info:   [15476] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:20:04.358Z - debug:  [15476] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:04.359Z - debug:  [15476] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:04.360Z - debug:  [15476] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:04.360Z - debug:  [15476] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:20:04.362Z - debug:  [15476] Using TFS proxy: 
+2018-06-15T17:20:04.362Z - debug:  [15476] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:20:04.362Z - debug:  [15476] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:20:04.363Z - debug:  [15476] TFVC Repository.CheckVersion
+2018-06-15T17:20:04.363Z - debug:  [15476] TFVC: tf add -noprompt -?
+2018-06-15T17:20:04.366Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:20:04.461Z - debug:  [15476] TFVC: add exit code: 0 (duration: 98ms)
+2018-06-15T17:20:04.461Z - debug:  [15476] TFVC Minimum required version: 14.102.0
+2018-06-15T17:20:04.461Z - debug:  [15476] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:20:04.461Z - debug:  [15476] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:20:04.462Z - debug:  [15476] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:04.465Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:20:04.864Z - debug:  [15476] TFVC: workfold exit code: 100 (duration: 402ms)
+2018-06-15T17:20:04.864Z - debug:  [15476] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:20:04.864Z - error:  [15476] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:20:10.141Z - debug:  [15476] Reinitializing due to onDidChangeConfiguration
+2018-06-15T17:20:10.142Z - debug:  [15476] Polling interval value (minutes): 5
+2018-06-15T17:20:10.146Z - info:   [15476] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:20:10.147Z - info:   [15476] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:20:10.148Z - debug:  [15476] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:10.148Z - debug:  [15476] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:10.150Z - debug:  [15476] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:10.150Z - debug:  [15476] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:20:10.151Z - debug:  [15476] Using TFS proxy: 
+2018-06-15T17:20:10.151Z - debug:  [15476] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:20:10.152Z - debug:  [15476] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:20:10.153Z - debug:  [15476] TFVC Repository.CheckVersion
+2018-06-15T17:20:10.153Z - debug:  [15476] TFVC: tf add -noprompt -?
+2018-06-15T17:20:10.159Z - debug:  [15476] TFVC: spawned new process (duration: 5ms)
+2018-06-15T17:20:10.275Z - debug:  [15476] TFVC: add exit code: 0 (duration: 122ms)
+2018-06-15T17:20:10.275Z - debug:  [15476] TFVC Minimum required version: 14.102.0
+2018-06-15T17:20:10.276Z - debug:  [15476] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:20:10.276Z - debug:  [15476] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:20:10.277Z - debug:  [15476] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:20:10.282Z - debug:  [15476] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:20:10.568Z - debug:  [15476] TFVC: workfold exit code: 100 (duration: 289ms)
+2018-06-15T17:20:10.568Z - debug:  [15476] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:20:10.568Z - error:  [15476] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:21:10.449Z - info:   [09328] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:21:10.452Z - info:   [09328] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:21:10.454Z - debug:  [09328] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:21:10.454Z - debug:  [09328] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:21:10.458Z - debug:  [09328] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:21:10.459Z - debug:  [09328] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:21:10.459Z - debug:  [09328] Using TFS proxy: 
+2018-06-15T17:21:10.460Z - debug:  [09328] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:21:10.460Z - debug:  [09328] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:21:10.461Z - debug:  [09328] TFVC Repository.CheckVersion
+2018-06-15T17:21:10.463Z - debug:  [09328] TFVC: tf add -noprompt -?
+2018-06-15T17:21:10.467Z - debug:  [09328] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:21:10.468Z - debug:  [09328] TFVC: spawned new process (duration: 0ms)
+2018-06-15T17:21:11.007Z - debug:  [09328] TFVC: add exit code: 0 (duration: 544ms)
+2018-06-15T17:21:11.022Z - debug:  [09328] TFVC Minimum required version: 14.102.0
+2018-06-15T17:21:11.022Z - debug:  [09328] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:21:11.022Z - debug:  [09328] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:21:11.022Z - debug:  [09328] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:21:11.022Z - debug:  [09328] TFVC: spawned new process (duration: 0ms)
+2018-06-15T17:21:11.209Z - debug:  [09328] TFVC: workfold exit code: 100 (duration: 187ms)
+2018-06-15T17:21:11.211Z - debug:  [09328] TFVC errors (via stderr): Unable to determine the source control server.
+
+2018-06-15T17:21:11.212Z - error:  [09328] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2018-06-15T17:30:50.196Z - info:   [02384] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:30:50.197Z - info:   [02384] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:30:50.198Z - debug:  [02384] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:30:50.199Z - debug:  [02384] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:30:50.201Z - debug:  [02384] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:30:50.202Z - debug:  [02384] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:30:50.203Z - debug:  [02384] Using TFS proxy: 
+2018-06-15T17:30:50.203Z - debug:  [02384] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:30:50.203Z - debug:  [02384] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:30:50.204Z - debug:  [02384] TFVC Repository.CheckVersion
+2018-06-15T17:30:50.206Z - debug:  [02384] TFVC: tf add -noprompt -?
+2018-06-15T17:30:50.211Z - debug:  [02384] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:30:50.216Z - debug:  [02384] TFVC: spawned new process (duration: 4ms)
+2018-06-15T17:30:50.682Z - debug:  [02384] TFVC: add exit code: 0 (duration: 476ms)
+2018-06-15T17:30:50.684Z - debug:  [02384] TFVC Minimum required version: 14.102.0
+2018-06-15T17:30:50.685Z - debug:  [02384] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:30:50.685Z - debug:  [02384] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:30:50.686Z - debug:  [02384] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:30:50.690Z - debug:  [02384] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:30:51.269Z - debug:  [02384] TFVC: workfold exit code: 0 (duration: 583ms)
+2018-06-15T17:30:51.272Z - debug:  [02384] Found a TFVC repository for url: 'https://esaleci.visualstudio.com/' and team project: 'client'.
+2018-06-15T17:30:51.274Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:30:51.274Z - debug:  [02384] Parsing values from repositoryInfo as string url
+2018-06-15T17:30:51.274Z - debug:  [02384] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:30:51.275Z - debug:  [02384] Using TFS proxy: 
+2018-06-15T17:30:51.275Z - debug:  [02384] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:30:51.276Z - debug:  [02384] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:30:51.310Z - debug:  [02384] Starting sign in process
+2018-06-15T17:30:51.357Z - error:  [02384] You are not connected to Team Services (esaleci). Please run the 'team signin' command.
+2018-06-15T17:32:52.213Z - debug:  [02384] Starting sign in process
+2018-06-15T17:33:05.376Z - debug:  [02384] Starting sign in process
+2018-06-15T17:33:07.913Z - debug:  [02384] Device flow personal access token option chosen.
+2018-06-15T17:33:10.811Z - debug:  [02384] Starting sign in process
+2018-06-15T17:33:47.824Z - debug:  [02384] Starting sign in process
+2018-06-15T17:34:36.117Z - info:   [02384] Signin: Personal Access Token provided as authentication.
+2018-06-15T17:34:36.290Z - debug:  [02384] Reinitializing after successfully storing credentials for Team Services.
+2018-06-15T17:34:36.291Z - debug:  [02384] Polling interval value (minutes): 5
+2018-06-15T17:34:36.294Z - info:   [02384] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:34:36.294Z - info:   [02384] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:34:36.294Z - debug:  [02384] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:34:36.294Z - debug:  [02384] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:34:36.295Z - debug:  [02384] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:34:36.295Z - debug:  [02384] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:34:36.296Z - debug:  [02384] Using TFS proxy: 
+2018-06-15T17:34:36.296Z - debug:  [02384] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:34:36.296Z - debug:  [02384] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:34:36.299Z - debug:  [02384] TFVC Repository.CheckVersion
+2018-06-15T17:34:36.300Z - debug:  [02384] TFVC: tf add -noprompt -?
+2018-06-15T17:34:36.303Z - debug:  [02384] TFVC: spawned new process (duration: 2ms)
+2018-06-15T17:34:36.390Z - debug:  [02384] TFVC: add exit code: 0 (duration: 89ms)
+2018-06-15T17:34:36.391Z - debug:  [02384] TFVC Minimum required version: 14.102.0
+2018-06-15T17:34:36.391Z - debug:  [02384] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:34:36.391Z - debug:  [02384] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:34:36.391Z - debug:  [02384] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:34:36.395Z - debug:  [02384] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:34:36.783Z - debug:  [02384] TFVC: workfold exit code: 0 (duration: 391ms)
+2018-06-15T17:34:36.784Z - debug:  [02384] Found a TFVC repository for url: 'https://esaleci.visualstudio.com/' and team project: 'client'.
+2018-06-15T17:34:36.784Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:34:36.785Z - debug:  [02384] Parsing values from repositoryInfo as string url
+2018-06-15T17:34:36.785Z - debug:  [02384] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:34:36.785Z - debug:  [02384] Using TFS proxy: 
+2018-06-15T17:34:36.785Z - debug:  [02384] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:34:36.786Z - debug:  [02384] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:34:36.819Z - debug:  [02384] Started ApplicationInsights telemetry
+2018-06-15T17:34:36.819Z - info:   [02384] Getting repository information with repositoryInfoClient
+2018-06-15T17:34:36.819Z - debug:  [02384] RemoteUrl = https://esaleci.visualstudio.com/
+2018-06-15T17:34:36.821Z - debug:  [02384] Getting repository information for a TFVC repository at https://esaleci.visualstudio.com/
+2018-06-15T17:34:36.821Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:34:36.821Z - debug:  [02384] Parsing values from repositoryInfo as string url
+2018-06-15T17:34:38.101Z - debug:  [02384] Successfully validated the Team Services TFVC repository. Collection name: 'esaleci', 'Url: https://esaleci.visualstudio.com/'
+2018-06-15T17:34:38.105Z - debug:  [02384] Getting project collection...  url: 'https://esaleci.visualstudio.com/', and collection name: 'esaleci'
+2018-06-15T17:34:38.105Z - debug:  [02384] Using REST to get the project collection information
+2018-06-15T17:34:40.960Z - debug:  [02384] Found a project collection for url: 'https://esaleci.visualstudio.com/' and collection name: 'esaleci'.
+2018-06-15T17:34:40.961Z - debug:  [02384] Getting team project...  Url: 'https://esaleci.visualstudio.com/', collection name: 'esaleci', and project: 'client'
+2018-06-15T17:34:43.735Z - debug:  [02384] Found a team project for url: 'https://esaleci.visualstudio.com/', collection name: 'esaleci', and project id: '7c7aad58-33d8-4911-9d8c-9e4df8f79af1'
+2018-06-15T17:34:43.735Z - debug:  [02384] Repository information blob:
+2018-06-15T17:34:43.736Z - debug:  serverUrl=https://esaleci.visualstudio.com/, id=d1e995e6-fbe0-4d5d-bebc-78eedb0359a6, name=esaleci, url=https://esaleci.visualstudio.com/_apis/projectCollections/d1e995e6-fbe0-4d5d-bebc-78eedb0359a6, id=00000000-0000-0000-0000-000000000000, name=NoNameTfvcRepository, url=https://esaleci.visualstudio.com/, id=7c7aad58-33d8-4911-9d8c-9e4df8f79af1, name=client, description=angular, url=https://esaleci.visualstudio.com/_apis/projects/7c7aad58-33d8-4911-9d8c-9e4df8f79af1, state=1, revision=15, remoteUrl=https://esaleci.visualstudio.com/
+2018-06-15T17:34:43.738Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:34:43.738Z - debug:  [02384] Parsing values from repositoryInfo object as any
+2018-06-15T17:34:43.739Z - debug:  [02384] _collection: esaleci
+2018-06-15T17:34:43.739Z - debug:  [02384] _collectionId: d1e995e6-fbe0-4d5d-bebc-78eedb0359a6
+2018-06-15T17:34:43.739Z - debug:  [02384] _repositoryId: 00000000-0000-0000-0000-000000000000
+2018-06-15T17:34:43.739Z - debug:  [02384] _repositoryName: NoNameTfvcRepository
+2018-06-15T17:34:43.740Z - debug:  [02384] _teamProject: client
+2018-06-15T17:34:43.740Z - debug:  [02384] Finished getting repository information for the repository at https://esaleci.visualstudio.com/
+2018-06-15T17:34:43.741Z - info:   [02384] Getting connectionData with accountClient
+2018-06-15T17:34:43.741Z - debug:  [02384] connectionUrl = https://esaleci.visualstudio.com
+2018-06-15T17:34:45.260Z - info:   [02384] Retrieved connectionData with accountClient
+2018-06-15T17:34:45.262Z - debug:  [02384] Found pinned queries in user configuration settings.
+2018-06-15T17:34:45.262Z - debug:  [02384] No account-specific pinned query or global pinned query found. Using default.
+2018-06-15T17:34:45.263Z - info:   [02384] Sent extension start up telemetry
+2018-06-15T17:34:45.263Z - debug:  id=2d42585f-ccc2-6812-a5e7-1a1738e6fbd9, descriptor=Microsoft.IdentityModel.Claims.ClaimsIdentity;0003BFFD98399815@Live.com, subjectDescriptor=msa.MmQ0MjU4NWYtY2NjMi03ODEyLWE1ZTctMWExNzM4ZTZmYmQ5, providerDisplayName=Elahe Saleci, isActive=true, $type=System.String, $value=salecii@live.com, resourceVersion=2, metaTypeId=255, id=2d42585f-ccc2-6812-a5e7-1a1738e6fbd9, descriptor=Microsoft.IdentityModel.Claims.ClaimsIdentity;0003BFFD98399815@Live.com, subjectDescriptor=msa.MmQ0MjU4NWYtY2NjMi03ODEyLWE1ZTctMWExNzM4ZTZmYmQ5, providerDisplayName=Elahe Saleci, isActive=true, $type=System.String, $value=salecii@live.com, resourceVersion=2, metaTypeId=255, instanceId=d1e995e6-fbe0-4d5d-bebc-78eedb0359a6, deploymentId=371dc223-5e58-9481-da2c-e75ac4f20939, deploymentType=hosted, serviceOwner=00025394-6065-48ca-87d9-7f5672854ef7, defaultAccessMappingMoniker=PublicAccessMapping, lastChangeId=12931084, lastChangeId64=12931084
+2018-06-15T17:34:45.263Z - debug:  [02384] Account: esaleci Team Project: client Collection: esaleci Repository: NoNameTfvcRepository UserCustomDisplayName: undefined UserProviderDisplayName: Elahe Saleci UserId: 2d42585f-ccc2-6812-a5e7-1a1738e6fbd9 
+2018-06-15T17:34:45.263Z - debug:  [02384] repositoryFolder: d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:34:45.264Z - debug:  [02384] repositoryRemoteUrl: https://esaleci.visualstudio.com/
+2018-06-15T17:34:45.264Z - debug:  [02384] IsSsh: false
+2018-06-15T17:34:45.264Z - debug:  [02384] proxy: not enabled, team services: true
+2018-06-15T17:34:45.264Z - info:   [02384] Sent TFVC tooling telemetry
+2018-06-15T17:34:45.264Z - debug:  [02384] Initializing the TfvcSCMProvider
+2018-06-15T17:34:45.268Z - debug:  [02384] TFVC Repository.CheckVersion
+2018-06-15T17:34:45.268Z - debug:  [02384] TFVC: tf add -noprompt -?
+2018-06-15T17:34:45.273Z - debug:  [02384] TFVC: spawned new process (duration: 4ms)
+2018-06-15T17:34:45.354Z - debug:  [02384] TFVC: add exit code: 0 (duration: 85ms)
+2018-06-15T17:34:45.354Z - debug:  [02384] TFVC Minimum required version: 14.102.0
+2018-06-15T17:34:45.354Z - debug:  [02384] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:34:45.357Z - debug:  [02384] TFVC Repository.GetStatus
+2018-06-15T17:34:45.358Z - debug:  [02384] TFVC: tf status -noprompt -collection:https://esaleci.visualstudio.com ******** -format:detailed -recursive d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:34:45.362Z - debug:  [02384] TFVC: spawned new process (duration: 4ms)
+2018-06-15T17:34:49.262Z - info:   [02384] Polling for latest current build status...
+2018-06-15T17:34:49.266Z - info:   [02384] Getting current build from badge...
+2018-06-15T17:34:49.268Z - info:   [02384] Polling for the pinned work itemquery
+2018-06-15T17:34:49.269Z - info:   [02384] Running pinned work item query to get count (client)...
+2018-06-15T17:34:52.591Z - info:   [02384] No builds were found for team client, repo id 00000000-0000-0000-0000-000000000000, + branch UNKNOWN
+2018-06-15T17:34:53.459Z - debug:  [02384] TFVC: status exit code: 0 (duration: 8101ms)
+2018-06-15T17:34:54.371Z - debug:  [02384] TFVC Repository.FindConflicts
+2018-06-15T17:34:54.374Z - debug:  [02384] TFVC: tf resolve -noprompt ******** d:\cSharpApp\ElaWebSite\Angular work\prg1\client -recursive -preview
+2018-06-15T17:34:54.381Z - debug:  [02384] TFVC: spawned new process (duration: 6ms)
+2018-06-15T17:34:56.490Z - debug:  [02384] TFVC: resolve exit code: 100 (duration: 2116ms)
+2018-06-15T17:34:56.491Z - debug:  [02384] TFVC errors (via stderr): TF30063: You are not authorized to access esaleci.visualstudio.com\esaleci.
+
+2018-06-15T17:34:56.492Z - error:  [02384] Caught an exception during Tfvc SCM Provider initialization
+2018-06-15T17:34:56.493Z - error:  [02384] It appears you are using a Server workspace. Currently, TFVC support is limited to Local workspaces.
+2018-06-15T17:35:23.591Z - debug:  [02384] Starting sign in process
+2018-06-15T17:37:47.832Z - debug:  [02384] TFVC Repository.GetStatus
+2018-06-15T17:37:47.833Z - debug:  [02384] TFVC: tf status -noprompt -collection:https://esaleci.visualstudio.com ******** -format:detailed -recursive d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:37:47.837Z - debug:  [02384] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:37:56.320Z - debug:  [02384] TFVC: status exit code: 0 (duration: 8487ms)
+2018-06-15T17:37:57.163Z - debug:  [02384] TFVC Repository.FindConflicts
+2018-06-15T17:37:57.165Z - debug:  [02384] TFVC: tf resolve -noprompt ******** d:\cSharpApp\ElaWebSite\Angular work\prg1\client -recursive -preview
+2018-06-15T17:37:57.172Z - debug:  [02384] TFVC: spawned new process (duration: 6ms)
+2018-06-15T17:37:59.034Z - debug:  [02384] TFVC: resolve exit code: 100 (duration: 1869ms)
+2018-06-15T17:37:59.035Z - debug:  [02384] TFVC errors (via stderr): TF30063: You are not authorized to access esaleci.visualstudio.com\esaleci.
+
+2018-06-15T17:39:11.589Z - debug:  [02384] Starting sign in process
+2018-06-15T17:39:21.807Z - debug:  [02384] Device flow personal access token option chosen.
+2018-06-15T17:39:49.253Z - info:   [02384] Signin: Personal Access Token provided as authentication.
+2018-06-15T17:39:49.488Z - debug:  [02384] Reinitializing after successfully storing credentials for Team Services.
+2018-06-15T17:39:49.501Z - debug:  [02384] Polling interval value (minutes): 5
+2018-06-15T17:39:49.515Z - info:   [02384] *** FOLDER: d:\cSharpApp\ElaWebSite\Angular work\prg1\client ***
+2018-06-15T17:39:49.516Z - info:   [02384] VSTSVSCode/1.136.0 (VSCode 1.24.1; Windows_NT 10.0.17134; Node 7.9.0)
+2018-06-15T17:39:49.518Z - debug:  [02384] Looking for an External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:39:49.519Z - debug:  [02384] No External Context at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:39:49.525Z - debug:  [02384] Looking for TFVC repository at d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:39:49.529Z - debug:  [02384] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:39:49.531Z - debug:  [02384] Using TFS proxy: 
+2018-06-15T17:39:49.531Z - debug:  [02384] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:39:49.532Z - debug:  [02384] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:39:49.533Z - debug:  [02384] TFVC Repository.CheckVersion
+2018-06-15T17:39:49.533Z - debug:  [02384] TFVC: tf add -noprompt -?
+2018-06-15T17:39:49.538Z - debug:  [02384] TFVC: spawned new process (duration: 4ms)
+2018-06-15T17:39:49.622Z - debug:  [02384] TFVC: add exit code: 0 (duration: 89ms)
+2018-06-15T17:39:49.623Z - debug:  [02384] TFVC Minimum required version: 14.102.0
+2018-06-15T17:39:49.623Z - debug:  [02384] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:39:49.624Z - debug:  [02384] TFVC Repository.FindWorkspace with localPath='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:39:49.624Z - debug:  [02384] TFVC: tf workfold -noprompt d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:39:49.628Z - debug:  [02384] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:39:50.084Z - debug:  [02384] TFVC: workfold exit code: 0 (duration: 459ms)
+2018-06-15T17:39:50.086Z - debug:  [02384] Found a TFVC repository for url: 'https://esaleci.visualstudio.com/' and team project: 'client'.
+2018-06-15T17:39:50.087Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:39:50.088Z - debug:  [02384] Parsing values from repositoryInfo as string url
+2018-06-15T17:39:50.088Z - debug:  [02384] TFVC Creating Tfvc object with localPath='undefined'
+2018-06-15T17:39:50.088Z - debug:  [02384] Using TFS proxy: 
+2018-06-15T17:39:50.088Z - debug:  [02384] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-06-15T17:39:50.089Z - debug:  [02384] TFVC Repository created with repositoryRootFolder='d:\cSharpApp\ElaWebSite\Angular work\prg1\client'
+2018-06-15T17:39:50.128Z - debug:  [02384] Started ApplicationInsights telemetry
+2018-06-15T17:39:50.129Z - info:   [02384] Getting repository information with repositoryInfoClient
+2018-06-15T17:39:50.129Z - debug:  [02384] RemoteUrl = https://esaleci.visualstudio.com/
+2018-06-15T17:39:50.130Z - debug:  [02384] Getting repository information for a TFVC repository at https://esaleci.visualstudio.com/
+2018-06-15T17:39:50.131Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:39:50.131Z - debug:  [02384] Parsing values from repositoryInfo as string url
+2018-06-15T17:39:51.720Z - debug:  [02384] Successfully validated the Team Services TFVC repository. Collection name: 'esaleci', 'Url: https://esaleci.visualstudio.com/'
+2018-06-15T17:39:51.721Z - debug:  [02384] Getting project collection...  url: 'https://esaleci.visualstudio.com/', and collection name: 'esaleci'
+2018-06-15T17:39:51.721Z - debug:  [02384] Using REST to get the project collection information
+2018-06-15T17:39:54.764Z - debug:  [02384] Found a project collection for url: 'https://esaleci.visualstudio.com/' and collection name: 'esaleci'.
+2018-06-15T17:39:54.765Z - debug:  [02384] Getting team project...  Url: 'https://esaleci.visualstudio.com/', collection name: 'esaleci', and project: 'client'
+2018-06-15T17:39:57.945Z - debug:  [02384] Found a team project for url: 'https://esaleci.visualstudio.com/', collection name: 'esaleci', and project id: '7c7aad58-33d8-4911-9d8c-9e4df8f79af1'
+2018-06-15T17:39:57.946Z - debug:  [02384] Repository information blob:
+2018-06-15T17:39:57.947Z - debug:  serverUrl=https://esaleci.visualstudio.com/, id=d1e995e6-fbe0-4d5d-bebc-78eedb0359a6, name=esaleci, url=https://esaleci.visualstudio.com/_apis/projectCollections/d1e995e6-fbe0-4d5d-bebc-78eedb0359a6, id=00000000-0000-0000-0000-000000000000, name=NoNameTfvcRepository, url=https://esaleci.visualstudio.com/, id=7c7aad58-33d8-4911-9d8c-9e4df8f79af1, name=client, description=angular, url=https://esaleci.visualstudio.com/_apis/projects/7c7aad58-33d8-4911-9d8c-9e4df8f79af1, state=1, revision=15, remoteUrl=https://esaleci.visualstudio.com/
+2018-06-15T17:39:57.949Z - debug:  [02384] _isTeamServicesUrl: true
+2018-06-15T17:39:57.950Z - debug:  [02384] Parsing values from repositoryInfo object as any
+2018-06-15T17:39:57.950Z - debug:  [02384] _collection: esaleci
+2018-06-15T17:39:57.951Z - debug:  [02384] _collectionId: d1e995e6-fbe0-4d5d-bebc-78eedb0359a6
+2018-06-15T17:39:57.951Z - debug:  [02384] _repositoryId: 00000000-0000-0000-0000-000000000000
+2018-06-15T17:39:57.952Z - debug:  [02384] _repositoryName: NoNameTfvcRepository
+2018-06-15T17:39:57.952Z - debug:  [02384] _teamProject: client
+2018-06-15T17:39:57.952Z - debug:  [02384] Finished getting repository information for the repository at https://esaleci.visualstudio.com/
+2018-06-15T17:39:57.953Z - info:   [02384] Getting connectionData with accountClient
+2018-06-15T17:39:57.954Z - debug:  [02384] connectionUrl = https://esaleci.visualstudio.com
+2018-06-15T17:39:59.467Z - info:   [02384] Retrieved connectionData with accountClient
+2018-06-15T17:39:59.471Z - debug:  [02384] Found pinned queries in user configuration settings.
+2018-06-15T17:39:59.472Z - debug:  [02384] No account-specific pinned query or global pinned query found. Using default.
+2018-06-15T17:39:59.475Z - info:   [02384] Sent extension start up telemetry
+2018-06-15T17:39:59.475Z - debug:  id=2d42585f-ccc2-6812-a5e7-1a1738e6fbd9, descriptor=Microsoft.IdentityModel.Claims.ClaimsIdentity;0003BFFD98399815@Live.com, subjectDescriptor=msa.MmQ0MjU4NWYtY2NjMi03ODEyLWE1ZTctMWExNzM4ZTZmYmQ5, providerDisplayName=Elahe Saleci, isActive=true, $type=System.String, $value=salecii@live.com, resourceVersion=2, metaTypeId=255, id=2d42585f-ccc2-6812-a5e7-1a1738e6fbd9, descriptor=Microsoft.IdentityModel.Claims.ClaimsIdentity;0003BFFD98399815@Live.com, subjectDescriptor=msa.MmQ0MjU4NWYtY2NjMi03ODEyLWE1ZTctMWExNzM4ZTZmYmQ5, providerDisplayName=Elahe Saleci, isActive=true, $type=System.String, $value=salecii@live.com, resourceVersion=2, metaTypeId=255, instanceId=d1e995e6-fbe0-4d5d-bebc-78eedb0359a6, deploymentId=371dc223-5e58-9481-da2c-e75ac4f20939, deploymentType=hosted, serviceOwner=00025394-6065-48ca-87d9-7f5672854ef7, defaultAccessMappingMoniker=PublicAccessMapping, lastChangeId=12935180, lastChangeId64=12935180
+2018-06-15T17:39:59.477Z - debug:  [02384] Account: esaleci Team Project: client Collection: esaleci Repository: NoNameTfvcRepository UserCustomDisplayName: undefined UserProviderDisplayName: Elahe Saleci UserId: 2d42585f-ccc2-6812-a5e7-1a1738e6fbd9 
+2018-06-15T17:39:59.478Z - debug:  [02384] repositoryFolder: d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:39:59.478Z - debug:  [02384] repositoryRemoteUrl: https://esaleci.visualstudio.com/
+2018-06-15T17:39:59.479Z - debug:  [02384] IsSsh: false
+2018-06-15T17:39:59.480Z - debug:  [02384] proxy: not enabled, team services: true
+2018-06-15T17:39:59.481Z - info:   [02384] Sent TFVC tooling telemetry
+2018-06-15T17:39:59.481Z - debug:  [02384] Re-initializing the TfvcSCMProvider
+2018-06-15T17:39:59.492Z - debug:  [02384] TFVC Repository.CheckVersion
+2018-06-15T17:39:59.492Z - debug:  [02384] TFVC: tf add -noprompt -?
+2018-06-15T17:39:59.499Z - debug:  [02384] TFVC: spawned new process (duration: 6ms)
+2018-06-15T17:39:59.611Z - debug:  [02384] TFVC: add exit code: 0 (duration: 119ms)
+2018-06-15T17:39:59.611Z - debug:  [02384] TFVC Minimum required version: 14.102.0
+2018-06-15T17:39:59.611Z - debug:  [02384] TFVC (TF.exe, TF.cmd) version: 15.129.27509.11
+2018-06-15T17:39:59.613Z - debug:  [02384] TFVC Repository.GetStatus
+2018-06-15T17:39:59.614Z - debug:  [02384] TFVC: tf status -noprompt -collection:https://esaleci.visualstudio.com ******** -format:detailed -recursive d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T17:39:59.619Z - debug:  [02384] TFVC: spawned new process (duration: 3ms)
+2018-06-15T17:40:03.473Z - info:   [02384] Polling for latest current build status...
+2018-06-15T17:40:03.474Z - info:   [02384] Getting current build from badge...
+2018-06-15T17:40:03.475Z - info:   [02384] Polling for the pinned work itemquery
+2018-06-15T17:40:03.476Z - info:   [02384] Running pinned work item query to get count (client)...
+2018-06-15T17:40:06.966Z - debug:  [02384] TFVC: status exit code: 0 (duration: 7352ms)
+2018-06-15T17:40:07.646Z - debug:  [02384] TFVC Repository.FindConflicts
+2018-06-15T17:40:07.648Z - debug:  [02384] TFVC: tf resolve -noprompt ******** d:\cSharpApp\ElaWebSite\Angular work\prg1\client -recursive -preview
+2018-06-15T17:40:07.655Z - debug:  [02384] TFVC: spawned new process (duration: 6ms)
+2018-06-15T17:40:07.657Z - info:   [02384] No builds were found for team client, repo id 00000000-0000-0000-0000-000000000000, + branch UNKNOWN
+2018-06-15T17:40:09.677Z - debug:  [02384] TFVC: resolve exit code: 100 (duration: 2028ms)
+2018-06-15T17:40:09.678Z - debug:  [02384] TFVC errors (via stderr): TF30063: You are not authorized to access esaleci.visualstudio.com\esaleci.
+
+2018-06-15T17:40:09.679Z - error:  [02384] Caught an exception during Tfvc SCM Provider initialization
+2018-06-15T17:40:09.680Z - error:  [02384] It appears you are using a Server workspace. Currently, TFVC support is limited to Local workspaces.
+2018-06-15T18:11:43.221Z - debug:  [02384] TFVC Repository.GetStatus
+2018-06-15T18:11:43.224Z - debug:  [02384] TFVC: tf status -noprompt -collection:https://esaleci.visualstudio.com ******** -format:detailed -recursive d:\cSharpApp\ElaWebSite\Angular work\prg1\client
+2018-06-15T18:11:43.231Z - debug:  [02384] TFVC: spawned new process (duration: 5ms)
+2018-06-15T18:11:43.592Z - debug:  [02384] Reinitializing due to onDidChangeConfiguration
+2018-06-15T18:11:43.594Z - debug:  [02384] Polling interval value (minutes): 5

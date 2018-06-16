@@ -1,0 +1,17 @@
+<div>
+<h1>hello angular</h1>
+<input [(ngModel)]="firstname" />
+<h3>My Name is :{{firstname}}</h3>
+<button (click)="ClearText()">Cleare Me</button>
+<p>
+    <span>Set Access Level :</span><input [(ngModel)]="getaccess"/>
+</p>
+
+</div>
+<div>
+    <app-login [accesslvl]="getaccess"></app-login>
+
+</div>
+<div>
+    <app-ui></app-ui>
+</div>

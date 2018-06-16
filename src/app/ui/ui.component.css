@@ -1,0 +1,8 @@
+table{
+    border: 1px solid lightgray;
+}
+tr,td {
+  border: 8px solid lightgrey !important;
+  padding: 4px;
+ 
+}
