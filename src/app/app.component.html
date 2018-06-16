@@ -4,8 +4,14 @@
 <h3>My Name is :{{firstname}}</h3>
 <button (click)="ClearText()">Cleare Me</button>
 <p>
-    <span>Set Access Level :</span><input [(ngModel)]="getaccess"/>
+    <span>Set Access Level :</span><input placeholder="limit|full" [(ngModel)]="getaccess"/>
 </p>
+<p>
+   if you can use of full option , you must pay $
+  
+   Pay <input [(ngModel)]="price" /> per Day .
+</p>
+<small>with : {{price |  number:0 | toRial}} you can use of all options !</small>
 
 </div>
 <div>
@@ -13,5 +19,5 @@
 
 </div>
 <div>
-    <app-ui></app-ui>
+    <app-ui [accesslvl]="getaccess"></app-ui>
 </div>

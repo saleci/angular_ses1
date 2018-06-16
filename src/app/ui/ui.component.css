@@ -6,3 +6,13 @@ tr,td {
   padding: 4px;
  
 }
+
+.limit {
+  color:red;
+  border :1px solid lightgray;
+}
+
+.full{
+  color :green;
+  border: 1px solid black;
+}

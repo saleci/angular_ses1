@@ -18,7 +18,7 @@ export class HovertableDirective {
         this.el.nativeElement.style.backgroundColor = color;
     }
     constructor(public el: ElementRef) {
-         this.el.nativeElement.style.backgroundColor = 'green';
+        // this.el.nativeElement.style.backgroundColor = 'green';
     }
 }
 

@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './admin/login/login.component';
 import { UiComponent } from './ui/ui.component';
 import { HovertableDirective } from './directive/hovertable.directive';
+import { TorialPipe } from './Pipe/toRial.pipe';
 
 
 @NgModule({
@@ -12,7 +13,8 @@ import { HovertableDirective } from './directive/hovertable.directive';
     AppComponent,
     LoginComponent,
     UiComponent,
-    HovertableDirective
+    HovertableDirective,
+    TorialPipe
   ],
   imports: [
     BrowserModule,
